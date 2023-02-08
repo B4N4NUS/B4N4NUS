@@ -46,6 +46,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - Blender
 - Photoshop
 - Unreal Engine 4 / 5
+- AutoCad
 
 #### Hobbies👾:
 - Making pet projects in 1-2 days to throw them in the bin
