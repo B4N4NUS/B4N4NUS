@@ -5,6 +5,8 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 
 #### Email💌: banan.bananev@gmail.com / mikhail.alenov@mail.ru
 
+#### Gitlab👾: [B4N4NUS](https://gitlab.com/B4N4NUS)
+
 #### Social networks📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/Great_and_Powerful_Bananus)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/sperm_whales_cant_cum)
