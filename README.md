@@ -47,8 +47,6 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - Photoshop
 - Unreal Engine 4 / 5
 
-<img alt="B4N4NUS's activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=B4N4NUS&theme=github-light&custom_title=OFFLUCK%27s%20activity"/>
-
 #### Hobbies👾:
 - Making pet projects in 1-2 days to throw them in the bin
 - 3d printing
