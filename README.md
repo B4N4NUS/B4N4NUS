@@ -1,6 +1,10 @@
 ### Sup!👋
-Name's Mikhail, when Christ died, I was -1972 y.o.
+Name's Mikhail. 
+
+When Christ died, I was -1972 y.o.
+
 Software engineer from Moscow.
+
 Currently studying at Higher School of Economics University, Faculcy of Computer Science, Bachelor’s Programme "Software Engineering".
 
 #### Email💌: banan.bananev@gmail.com / mikhail.alenov@mail.ru
