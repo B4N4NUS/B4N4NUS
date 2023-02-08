@@ -34,12 +34,6 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - Wiring
 
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4N4NUS&langs_count=10&layout=compact"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=B4N4NUS"/>
-</p>
-
-
 #### Additional knowledges👨‍🏭:
 - Docker
 - Git
@@ -49,6 +43,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - Photoshop
 - Unreal Engine 4 / 5
 
+<img alt="B4N4NUS's activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=B4N4NUS&theme=github-light&custom_title=OFFLUCK%27s%20activity"/>
 
 #### Hobbies👾:
 - Making pet projects in 1-2 days to throw them in the bin
@@ -62,6 +57,13 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 
 #### Visitors' count
 <img src="https://profile-counter.glitch.me/{B4N4NUS}/count.svg" alt="Visitor count" />
+
+#### Some stats
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4N4NUS&langs_count=10&layout=compact"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=B4N4NUS"/>
+</p>
 
 <!--
 **B4N4NUS/B4N4NUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
